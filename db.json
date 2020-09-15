@@ -1,16 +1,226 @@
  {
    "get_team_suggested_members_options":
    {
-     "options":
-     [
+     "success": true,
+     "options": [
       {
         "type": "facebook_friends",
         "text": "My FB friends in GuruShots"
       },
       {
         "type": "country",
-        "text": "My FB friends in GuruShots"
+        "text": "Same country as the team"
+      },
+      {
+        "type": "following_me",
+        "text": "Members that are following me"
+      },
+      {
+        "type": "im_following",
+        "text": "Members I'm following"
       }
     ]
+  },
+
+  "get_fb_is_connected":
+  {
+    "success": true,
+    "is_connected": false
+  },
+
+  "get_team_suggested_members":
+  {
+    "success": true,
+    "members": [
+      {
+        "id": "bcd13d03ad95d7100590047152eb0878",
+        "name": "Suzy Geets",
+        "user_name": "suzanne.geets",
+        "member_status": 8,
+        "member_status_name": "MASTER",
+        "avatar": "https://photos.gurushots.com/unsafe/500x500/bcd13d03ad95d7100590047152eb0878/3_de7953a0b6aa3edaed198674f11afaae.jpg",
+        "country": {
+          "code": "PR",
+          "icon": {
+            "png_url": "https://assets.gurushots.com/assets/flags/PR.png",
+            "svg_url": "https://assets.gurushots.com/assets/flags/PR.svg"
+          },
+          "name": "Puerto Rico"
+        }
+      },
+      {
+        "id": "c3b67c8fef955d44369e538483ee513d",
+        "name": "Hugo Alonso",
+        "user_name": "halonso68",
+        "member_status": 8,
+        "member_status_name": "MASTER",
+        "avatar": "https://photos.gurushots.com/unsafe/500x500/c3b67c8fef955d44369e538483ee513d/3_941e549fc4facd3e7bd8540a75248847.jpg",
+        "country": {
+          "code": "PR",
+          "icon": {
+            "png_url": "https://assets.gurushots.com/assets/flags/PR.png",
+            "svg_url": "https://assets.gurushots.com/assets/flags/PR.svg"
+          },
+          "name": "Puerto Rico"
+        }
+      }
+    ]
+  },
+
+  "get_team_invited_members":
+  {
+    "success": true,
+    "members": [
+    {
+      "id": "bcd13d03ad95d7100590047152eb0878",
+      "name": "Suzy Geets",
+      "user_name": "suzanne.geets",
+      "member_status": 8,
+      "member_status_name": "MASTER",
+      "avatar": "https://photos.gurushots.com/unsafe/500x500/bcd13d03ad95d7100590047152eb0878/3_de7953a0b6aa3edaed198674f11afaae.jpg",
+      "country": {
+        "code": "PR",
+        "icon": {
+          "png_url": "https://assets.gurushots.com/assets/flags/PR.png",
+          "svg_url": "https://assets.gurushots.com/assets/flags/PR.svg"
+        },
+        "name": "Puerto Rico"
+      }
+    },
+    {
+      "id": "c3b67c8fef955d44369e538483ee513d",
+      "name": "Hugo Alonso",
+      "user_name": "halonso68",
+      "member_status": 8,
+      "member_status_name": "MASTER",
+      "avatar": "https://photos.gurushots.com/unsafe/500x500/c3b67c8fef955d44369e538483ee513d/3_941e549fc4facd3e7bd8540a75248847.jpg",
+      "country": {
+        "code": "PR",
+        "icon": {
+          "png_url": "https://assets.gurushots.com/assets/flags/PR.png",
+          "svg_url": "https://assets.gurushots.com/assets/flags/PR.svg"
+        },
+        "name": "Puerto Rico"
+      }
+    }
+  ]
+},
+
+"invite_member":
+{
+  "success": true
+},
+
+"get_team_config":
+{
+  "success": true
+},
+
+"hide_suggested_member":
+{
+  "success": true
+},
+
+"get_team_invites":
+{
+  "success": true,
+  "invites": [
+    {
+      "invitation_date": 1596543259,
+      "invited_member": {
+        "id": "bcd13d03ad95d7100590047152eb0878",
+        "name": "Suzy Geets",
+        "user_name": "suzanne.geets",
+        "member_status": 8,
+        "member_status_name": "MASTER",
+        "avatar": "https://photos.gurushots.com/unsafe/500x500/bcd13d03ad95d7100590047152eb0878/3_de7953a0b6aa3edaed198674f11afaae.jpg",
+        "country": {
+          "code": "PR",
+          "icon": {
+            "png_url": "https://assets.gurushots.com/assets/flags/PR.png",
+            "svg_url": "https://assets.gurushots.com/assets/flags/PR.svg"
+          },
+          "name": "Puerto Rico"
+        }
+      },
+      "inviting_member": {
+        "id": "c3b67c8fef955d44369e538483ee513d",
+        "name": "Hugo Alonso",
+        "user_name": "halonso68",
+        "member_status": 8,
+        "member_status_name": "MASTER",
+        "avatar": "https://photos.gurushots.com/unsafe/500x500/c3b67c8fef955d44369e538483ee513d/3_941e549fc4facd3e7bd8540a75248847.jpg",
+        "country": {
+          "code": "PR",
+          "icon": {
+            "png_url": "https://assets.gurushots.com/assets/flags/PR.png",
+            "svg_url": "https://assets.gurushots.com/assets/flags/PR.svg"
+          },
+          "name": "Puerto Rico"
+        }
+      },
+      "team": {
+        "badge": {
+          "icon_id": "argentina",
+          "icon_url": "https://assets.gurushots.com/assets/teams_badges/argentina.svg"
+        },
+        "chat_id": "7bca5aab-8915-40c6-96bd-3211baba9db6",
+        "country": null,
+        "current_member": {},
+        "description": "Sharing our art worldwide. Argentinians ONLY Min. status requirement: MASTER.↵Access only by invitation, not invited will be removed.",
+        "icon_id": "argentina",
+        "id": 280,
+        "language": null,
+        "league": {},
+        "member_count": 20,
+        "name": "Campeones de Argentina",
+        "points": 0,
+        "required_status": 7,
+        "required_status_name": "CHAMPION",
+        "score": 191829,
+        "status": "ACTIVE",
+        "team_capacity": 20,
+        "type": "OPEN",
+        "wins": 179,
+        "team_is_full": true
+      }
+    }
+  ]
+},
+
+"decline_invitation":
+{
+  "success": true
+},
+
+"get_member_team_state":
+{
+  "success": true,
+  "state": "IN_TEAM",
+  "team": {
+    "badge": {
+      "icon_id": "argentina",
+      "icon_url": "https://assets.gurushots.com/assets/teams_badges/argentina.svg"
+    },
+    "chat_id": "7bca5aab-8915-40c6-96bd-3211baba9db6",
+    "country": null,
+    "current_member": {},
+    "description": "Sharing our art worldwide. Argentinians ONLY Min. status requirement: MASTER.↵Access only by invitation, not invited will be removed.",
+    "icon_id": "argentina",
+    "id": 280,
+    "language": null,
+    "league": {},
+    "member_count": 20,
+    "name": "Campeones de Argentina",
+    "points": 0,
+    "required_status": 7,
+    "required_status_name": "CHAMPION",
+    "score": 191829,
+    "status": "ACTIVE",
+    "team_capacity": 20,
+    "type": "OPEN",
+    "wins": 179,
+    "team_is_full": true
   }
+}
  }
