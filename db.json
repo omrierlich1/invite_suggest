@@ -1,9 +1,23 @@
  {
-   "get_team_league_1":
-    {
-      "state" : {
-        "status" : "active"
-      },
-      "success" : true
-    }
+   "get_team_suggested_members_options":
+   {
+     "options": [
+     {
+       "type": "facebook_friends",
+       "text": "My FB friends in GuruShots"
+     },
+     {
+       "type": "country",
+       "text": "Same country as the team"
+     },
+     {
+       "type": "following_me",
+       "text": "Members that are following me"
+     },
+     {
+       "type": "im_following",
+       "text": "Members I'm following"
+     }
+    ]
+}
  }
