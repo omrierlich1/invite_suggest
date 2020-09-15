@@ -1,25 +1,7 @@
  {
    "get_team_suggested_members_options":
    {
-     "success": true,
-     "options": [
-      {
-        "type": "facebook_friends",
-        "text": "My FB friends in GuruShots"
-      },
-      {
-        "type": "country",
-        "text": "Same country as the team"
-      },
-      {
-        "type": "following_me",
-        "text": "Members that are following me"
-      },
-      {
-        "type": "im_following",
-        "text": "Members I'm following"
-      }
-    ]
+     "success": true
   },
 
   "get_fb_is_connected":
