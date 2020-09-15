@@ -1,6 +1,16 @@
  {
    "get_team_suggested_members_options":
    {
-    
+     "options":
+     [
+      {
+        "type": "facebook_friends",
+        "text": "My FB friends in GuruShots"
+      },
+      {
+        "type": "country",
+        "text": "My FB friends in GuruShots"
+      }
+    ]
   }
  }
