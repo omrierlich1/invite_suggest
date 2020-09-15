@@ -3,14 +3,7 @@
    {
      "options":
      [
-      {
-        "type": "facebook_friends",
-        "text": "My FB friends in GuruShots"
-      },
-      {
-        "type": "country",
-        "text": "My FB friends in GuruShots"
-      }
+      
     ]
   }
  }
