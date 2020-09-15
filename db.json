@@ -1,0 +1,411 @@
+ {
+   "get_team_league_1":
+    {
+      "state" : {
+        "status" : "active"
+      },
+      "data" : {
+        "config" : {
+          "season" : {
+            "status" : "active",
+            "id" : 1,
+            "start_date" : 1577862000,
+            "type" : "teams",
+            "close_date" : 1594201859,
+            "name" : "1",
+            "next_season_id" : 2
+          },
+          "league" : {
+            "id" : 2,
+            "major_league_id" : "silver",
+            "percent_items_drop" : 20,
+            "percent_items_promote" : 20,
+            "badge_url" : "https://i.imgur.com/XH5hEY3.png",
+            "bucket_size" : 50,
+            "sub_name" : "level I",
+            "internal_name" : "silver_level_i",
+            "lobby_items" : "drop",
+            "promote" : 3,
+            "name" : "Silver League",
+            "drop" : 1
+          }
+        },
+        "feature_messages" : [
+
+        ],
+        "buckets" : {
+          "promote" : [
+            {
+              "id" : 74,
+              "description" : "description",
+              "league" : {
+                "id" : 2,
+                "major_league_id" : "silver",
+                "percent_items_drop" : 20,
+                "percent_items_promote" : 20,
+                "badge_url" : "badge_url",
+                "bucket_size" : 50,
+                "sub_name" : "level I",
+                "internal_name" : "silver_level_i",
+                "lobby_items" : "drop",
+                "rank" : {
+                  "scores" : "20",
+                  "status" : "promote",
+                  "season_id" : 1,
+                  "league_id" : 1,
+                  "item_rank" : 1,
+                  "item_id" : "74",
+                  "bucket_id" : 59
+                },
+                "promote" : 3,
+                "chest" : {
+
+                },
+                "name" : "Silver",
+                "drop" : 1
+              },
+              "points" : 0,
+              "date_updated" : "2020-06-28T13:20:30.000Z",
+              "members" : [
+
+              ],
+              "icon_id" : "0002_gradient_11",
+              "badge" : {
+                "icon_id" : "0002_gradient_11",
+                "icon_url" : "https:\/\/assets.gurushots.com\/assets\/teams_badges\/0002_gradient_11.png"
+              },
+              "required_status" : 2,
+              "type" : "OPEN",
+              "member_count" : 13,
+              "wins" : 9,
+              "date_created" : "2020-05-13T07:53:40.000Z",
+              "chat_id" : "7b8c57a5-0898-492d-af99-6ccac7d2cccd",
+              "current_member" : {
+
+              },
+              "score" : 167882,
+              "name" : "Stronger Together",
+              "status" : "ACTIVE"
+            },
+            {
+              "id" : 71,
+              "description" : "description",
+              "league" : {
+                "id" : 2,
+                "major_league_id" : "silver",
+                "percent_items_drop" : 20,
+                "percent_items_promote" : 20,
+                "badge_url" : "badge_url",
+                "bucket_size" : 50,
+                "sub_name" : "level I",
+                "internal_name" : "silver_level_i",
+                "lobby_items" : "drop",
+                "rank" : {
+                  "scores" : "20",
+                  "status" : "promote",
+                  "season_id" : 1,
+                  "league_id" : 1,
+                  "item_rank" : 2,
+                  "item_id" : "71",
+                  "bucket_id" : 59
+                },
+                "promote" : 3,
+                "chest" : {
+
+                },
+                "name" : "Silver",
+                "drop" : 1
+              },
+              "points" : 0,
+              "date_updated" : "2020-06-28T13:20:30.000Z",
+              "members" : [
+
+              ],
+              "icon_id" : "0003_outline_7",
+              "badge" : {
+                "icon_id" : "0003_outline_7",
+                "icon_url" : "https:\/\/assets.gurushots.com\/assets\/teams_badges\/0003_outline_7.png"
+              },
+              "required_status" : 2,
+              "type" : "OPEN",
+              "member_count" : 13,
+              "wins" : 9,
+              "date_created" : "2020-05-13T07:53:40.000Z",
+              "chat_id" : "7b8c57a5-0898-492d-af99-6ccac7d2cccd",
+              "current_member" : {
+
+              },
+              "score" : 153701,
+              "name" : "The Poopoorazzi",
+              "status" : "ACTIVE"
+            },
+            {
+              "id" : 9,
+              "description" : "description",
+              "league" : {
+                "id" : 2,
+                "major_league_id" : "silver",
+                "percent_items_drop" : 20,
+                "percent_items_promote" : 20,
+                "badge_url" : "badge_url",
+                "bucket_size" : 50,
+                "sub_name" : "level I",
+                "internal_name" : "silver_level_i",
+                "lobby_items" : "drop",
+                "rank" : {
+                  "scores" : "20",
+                  "status" : "promote",
+                  "season_id" : 1,
+                  "league_id" : 1,
+                  "item_rank" : 3,
+                  "item_id" : "9",
+                  "bucket_id" : 59
+                },
+                "promote" : 3,
+                "chest" : {
+
+                },
+                "name" : "Silver",
+                "drop" : 1
+              },
+              "points" : 0,
+              "date_updated" : "2020-06-28T13:20:30.000Z",
+              "members" : [
+
+              ],
+              "icon_id" : "0001_flat_8",
+              "badge" : {
+                "icon_id" : "0001_flat_8",
+                "icon_url" : "https:\/\/assets.gurushots.com\/assets\/teams_badges\/0001_flat_8.png"
+              },
+              "required_status" : 2,
+              "type" : "OPEN",
+              "member_count" : 13,
+              "wins" : 9,
+              "date_created" : "2020-05-13T07:53:40.000Z",
+              "chat_id" : "7b8c57a5-0898-492d-af99-6ccac7d2cccd",
+              "current_member" : {
+
+              },
+              "score" : 150137,
+              "name" : "The Guruminati",
+              "status" : "ACTIVE"
+            }
+          ],
+          "drop" : [
+            {
+              "id" : 108,
+              "description" : "description",
+              "league" : {
+                "id" : 2,
+                "major_league_id" : "silver",
+                "percent_items_drop" : 20,
+                "percent_items_promote" : 20,
+                "badge_url" : "badge_url",
+                "bucket_size" : 50,
+                "sub_name" : "level I",
+                "internal_name" : "silver_level_i",
+                "lobby_items" : "drop",
+                "rank" : {
+                  "scores" : "20",
+                  "status" : "drop",
+                  "season_id" : 1,
+                  "league_id" : 1,
+                  "item_rank" : 6,
+                  "item_id" : "108",
+                  "bucket_id" : 59
+                },
+                "promote" : 3,
+                "chest" : {
+
+                },
+                "name" : "Silver",
+                "drop" : 1
+              },
+              "points" : 0,
+              "date_updated" : "2020-06-28T13:20:30.000Z",
+              "members" : [
+
+              ],
+              "icon_id" : "0001_flat_7",
+              "badge" : {
+                "icon_id" : "0001_flat_7",
+                "icon_url" : "https:\/\/assets.gurushots.com\/assets\/teams_badges\/0001_flat_7.png"
+              },
+              "required_status" : 2,
+              "type" : "OPEN",
+              "member_count" : 13,
+              "wins" : 9,
+              "date_created" : "2020-05-13T07:53:40.000Z",
+              "chat_id" : "7b8c57a5-0898-492d-af99-6ccac7d2cccd",
+              "current_member" : {
+
+              },
+              "score" : 113763,
+              "name" : "Dumbledore's Army",
+              "status" : "ACTIVE"
+            },
+            {
+              "id" : 102,
+              "description" : "description",
+              "league" : {
+                "id" : 2,
+                "major_league_id" : "silver",
+                "percent_items_drop" : 20,
+                "percent_items_promote" : 20,
+                "badge_url" : "badge_url",
+                "bucket_size" : 50,
+                "sub_name" : "level I",
+                "internal_name" : "silver_level_i",
+                "lobby_items" : "drop",
+                "rank" : {
+                  "scores" : "20",
+                  "status" : "drop",
+                  "season_id" : 1,
+                  "league_id" : 1,
+                  "item_rank" : 7,
+                  "item_id" : "102",
+                  "bucket_id" : 59
+                },
+                "promote" : 3,
+                "chest" : {
+
+                },
+                "name" : "Silver",
+                "drop" : 1
+              },
+              "points" : 0,
+              "date_updated" : "2020-06-28T13:20:30.000Z",
+              "members" : [
+
+              ],
+              "icon_id" : "portugal",
+              "badge" : {
+                "icon_id" : "portugal",
+                "icon_url" : "https:\/\/assets.gurushots.com\/assets\/teams_badges\/portugal.png"
+              },
+              "required_status" : 2,
+              "type" : "OPEN",
+              "member_count" : 13,
+              "wins" : 9,
+              "date_created" : "2020-05-13T07:53:40.000Z",
+              "chat_id" : "7b8c57a5-0898-492d-af99-6ccac7d2cccd",
+              "current_member" : {
+
+              },
+              "score" : 119282,
+              "name" : "Team Portugal",
+              "status" : "ACTIVE"
+            }
+          ],
+          "stay" : [
+            {
+              "id" : 188,
+              "description" : "description",
+              "league" : {
+                "id" : 2,
+                "major_league_id" : "silver",
+                "percent_items_drop" : 20,
+                "percent_items_promote" : 20,
+                "badge_url" : "badge_url",
+                "bucket_size" : 50,
+                "sub_name" : "level I",
+                "internal_name" : "silver_level_i",
+                "lobby_items" : "drop",
+                "rank" : {
+                  "scores" : "20",
+                  "status" : "stay",
+                  "season_id" : 1,
+                  "league_id" : 1,
+                  "item_rank" : 5,
+                  "item_id" : "188",
+                  "bucket_id" : 59
+                },
+                "promote" : 3,
+                "chest" : {
+
+                },
+                "name" : "Silver",
+                "drop" : 1
+              },
+              "points" : 0,
+              "date_updated" : "2020-06-28T13:20:30.000Z",
+              "members" : [
+
+              ],
+              "icon_id" : "0001_flat_11",
+              "badge" : {
+                "icon_id" : "0001_flat_11",
+                "icon_url" : "https:\/\/assets.gurushots.com\/assets\/teams_badges\/0001_flat_11.png"
+              },
+              "required_status" : 2,
+              "type" : "OPEN",
+              "member_count" : 13,
+              "wins" : 9,
+              "date_created" : "2020-05-13T07:53:40.000Z",
+              "chat_id" : "7b8c57a5-0898-492d-af99-6ccac7d2cccd",
+              "current_member" : {
+
+              },
+              "score" : 115425,
+              "name" : "Team Nikon",
+              "status" : "ACTIVE"
+            }
+          ]
+        },
+        "my_team" : {
+          "id" : 102,
+          "description" : "description",
+          "league" : {
+            "id" : 2,
+            "major_league_id" : "silver",
+            "percent_items_drop" : 20,
+            "percent_items_promote" : 20,
+            "badge_url" : "badge_url",
+            "bucket_size" : 50,
+            "sub_name" : "level I",
+            "internal_name" : "silver_level_i",
+            "lobby_items" : "drop",
+            "rank" : {
+              "scores" : "20",
+              "status" : "promote",
+              "season_id" : 1,
+              "league_id" : 1,
+              "item_rank" : 4,
+              "item_id" : "102",
+              "bucket_id" : 59
+            },
+            "promote" : 3,
+            "chest" : {
+
+            },
+            "name" : "Silver",
+            "drop" : 1
+          },
+          "points" : 0,
+          "date_updated" : "2020-06-28T13:20:30.000Z",
+          "members" : [
+
+          ],
+          "icon_id" : "portugal",
+          "badge" : {
+            "icon_id" : "portugal",
+            "icon_url" : "https:\/\/assets.gurushots.com\/assets\/teams_badges\/portugal.png"
+          },
+          "required_status" : 2,
+          "type" : "OPEN",
+          "member_count" : 13,
+          "wins" : 9,
+          "date_created" : "2020-05-13T07:53:40.000Z",
+          "chat_id" : "7b8c57a5-0898-492d-af99-6ccac7d2cccd",
+          "current_member" : {
+
+          },
+          "score" : 119282,
+          "name" : "Team Portugal",
+          "status" : "ACTIVE"
+        }
+      },
+      "success" : true
+    }
+ }
