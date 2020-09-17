@@ -105,6 +105,49 @@
   "success": true,
   "invites": [
     {
+     "country": {
+          "code": "IL",
+          "name": "Israel",
+          "icon": {
+            "png_url": "https://assets.gurushots.com/assets/flags/IL.png",
+            "svg_url": "https://assets.gurushots.com/assets/flags/IL.svg"
+          }
+        },
+        "language": {
+          "code": "IW",
+          "name": "Hebrew"
+        },
+     "league": {
+          "id": 3,
+          "major_league_id": "bronze",
+          "name": "Bronze",
+          "sub_name": "level III",
+          "internal_name": "bronze_level_iii",
+          "bucket_size": 50,
+          "drop": 2,
+          "promote": 4,
+          "percent_items_drop": 20,
+          "percent_items_promote": 40,
+          "lobby_items": "drop",
+          "badge_url": "https://assets.gurushots.com/assets/leagues/badges/bronze_level_iii.png",
+          "rank": {
+            "season_id": 1,
+            "item_id": "515",
+            "league_id": 3,
+            "bucket_id": 1,
+            "scores": 0
+          },
+          "chest": {
+            "chest_id": 103,
+            "name": "Metal Vault",
+            "member_chest_type": "TEAM_LEAGUE_END_OF_SEASON",
+            "type": "metal_vault",
+            "icon": "https://assets.gurushots.com/assets/chest/icons/metal_vault.png",
+            "animation_delay": 1200,
+            "animation": "https://assets.gurushots.com/assets/chest/animations/metal_vault.json",
+            "description": "Teams Leagues - promote_bronze_level_i rank: 0"
+          }
+        },
       "invitation_date": 1596543259,
       "invited_member": {
         "id": "bcd13d03ad95d7100590047152eb0878",
